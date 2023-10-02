@@ -1,0 +1,4 @@
+[submodule "webCard/public"]
+	path = webCard/public
+	url = git@github.com:GarrettGoodrich/GarrettWebcard.github.io.git
+	branch = main

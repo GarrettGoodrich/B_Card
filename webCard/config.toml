@@ -1,0 +1,24 @@
+
+baseurl = "https://garrettgoodrich.github.io/GarrettWebcard.github.io/" 
+title = "Garrett's Webcard"
+theme = "hugo-theme-nix"
+languageCode = "en-us"
+[menu]
+
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+  GithubID = "GarrettGoodrich"
+  LinkedInID = "garrettgk"
+  CvURL = "/GarrettWebcard.github.io/webResume.pdf"
+  Name = "Garrett Goodrich"
+  HeaderUsername = "Garrett"
+  HeaderHostname = "Goodrich"
+  Email = "goodrichgk1@gmail.com"
+  ProfilePicture = "/GarrettWebcard.github.io/image/profile.jpg"
+  Favicon = "/favicon.ico"
+  About = "Hello, thank you for visiting my site. I’m Garrett Goodrich and my Alma matter is Middle Tennessee State University (Go Raiders!), and my major is in Computer Science. I have a passion for using computer based technology for automation and solving problems." 
+
