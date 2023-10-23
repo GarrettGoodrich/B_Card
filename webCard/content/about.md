@@ -42,6 +42,10 @@ to further expand my knowledge in software development.
     
     [6]: <https://verify.openedg.org/?id=zaaU.6CBY.CZGM>
     [7]: <https://pythoninstitute.org/pcap>
+    
+    {{<rawhtml>}}
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="598bae47-e97f-434a-b0db-084f08d8feb5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    {{</rawhtml>}}
 
 - C++([*CPA][8])
     
