@@ -38,9 +38,9 @@ to further expand my knowledge in software development.
 ---
 
  ## Certifications(*in progress)
-- Python([*PCEP][6], [*PCAP][7])
+- Python([PCEP][6], [*PCAP][7])
     
-    [6]: <https://pythoninstitute.org/pcep>
+    [6]: <https://verify.openedg.org/?id=zaaU.6CBY.CZGM>
     [7]: <https://pythoninstitute.org/pcap>
 
 - C++([*CPA][8])
